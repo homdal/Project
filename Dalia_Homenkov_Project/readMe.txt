@@ -15,12 +15,12 @@ resume   - מכילה את קובץ קורות החיים
 
 
 שם הפרויקט     שם תיקיית הפרויקט    שם דף הצגת הפרויקט
-projectPage1 -  here&now  - פרויקט כאן ועכשיו
-projectPage2 -  coffee    - פרויקט קפה טוב
-projectPage3 -  forward   - פרויקט קדימה
-projectPage4 -  world     - פרויקט לגלות עולם
-projectPage5 -  advice    - פרויקט ייעוץ
-projectPage6 -  box       - פרויקט קופסא
+projectPage1        -      here&now       - פרויקט כאן ועכשיו
+projectPage2        -       coffee        - פרויקט קפה טוב
+projectPage3        -      forward        - פרויקט קדימה
+projectPage4        -       world         - פרויקט לגלות עולם
+projectPage5        -       advice        - פרויקט ייעוץ
+projectPage6        -        box          - פרויקט קופסא
 
 
  (HTML, CSS, SASS, PNG\SVG, RAR) כל תיקיית פרויקט מכילה את הקבצים ששייכים לפרויקט
